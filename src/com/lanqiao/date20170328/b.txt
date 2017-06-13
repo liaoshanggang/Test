@@ -1,0 +1,5 @@
+package com.lanqiao.data20170328.newFolder;
+
+public class newFolderFile2{
+	
+}
